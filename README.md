@@ -31,27 +31,10 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nextjs-nft-marketplace-fcc
-cd hardhat-nextjs-nft-marketplace-fcc
+git clonehttps://github.com/Abhisek0x/NFT_MARKETPLACE_MORALIS_BACKEND.git
+cd NFT_MARKETPLACE_MORALIS_BACKEND
 yarn
 ```
-
-## Typescript
-
-TODO!!
-
-For the typescript edition, run:
-
-```
-git checkout typescript
-```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc)
-
 
 # Usage
 
